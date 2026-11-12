@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 520">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#efe3d6"/><stop offset="1" stop-color="#dcc6b4"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="520" fill="url(#bg)"/>
+  <circle cx="200" cy="210" r="74" fill="#cdb4a2"/>
+  <path d="M60 520 C70 400 130 340 200 340 C270 340 330 400 340 520Z" fill="#cdb4a2"/>
+  <text x="200" y="470" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="22" fill="#8f7462">ваше фото — img/photo.jpg</text>
+</svg>
